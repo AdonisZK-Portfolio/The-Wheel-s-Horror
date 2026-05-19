@@ -1,0 +1,1 @@
+export const searchSequenceNextAttackTickByPlayerId = new Map<string, number>();

@@ -1,0 +1,16 @@
+node_modules/
+
+build/
+.regolith/
+packs/BP/scripts/
+*.mcaddon
+*.mcpack
+*.mcworld
+*.zip
+*.log
+
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+export const searchSequenceWheelIsCrawlingByPlayerId = new Map<string, boolean>();

@@ -1,0 +1,43 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ink0rr/rgl-schemas/main/config/v1.1.json",
+    "author": "Adonis",
+    "name": "The Wheel's Horror",
+    "packs": {
+        "behaviorPack": "./packs/BP",
+        "resourcePack": "./packs/RP"
+    },
+    "regolith": {
+        "dataPath": "./data",
+        "filterDefinitions": {
+            "esbuild": {
+                "url": "github.com/ink0rr/regolith-filters",
+                "version": "0.1.0"
+            }
+        },
+        "profiles": {
+            "default": {
+                "export": {
+                    "target": "development"
+                },
+                "filters": [
+                    {
+                        "filter": "esbuild",
+                        "settings": {
+                            "sourcemap": "external"
+                        }
+                    }
+                ]
+            },
+            "build": {
+                "export": {
+                    "target": "local"
+                },
+                "filters": [
+                    {
+                        "profile": "default"
+                    }
+                ]
+            }
+        }
+    }
+}
