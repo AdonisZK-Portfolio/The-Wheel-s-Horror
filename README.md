@@ -9,7 +9,9 @@ All current visual, audio, and icon assets are placeholder assets for prototype 
 ## Links
 
 - [Game Design Document](https://www.notion.so/The-Wheel-s-Horror-35d4dedd24de800d9d18dc64aa73477f)
-- [![YouTube Video](https://img.youtube.com/vi/wVTp7mh9c1Q/hqdefault.jpg)](https://youtu.be/wVTp7mh9c1Q)
+- YouTube Video: [Watch on YouTube](https://youtu.be/wVTp7mh9c1Q)
+
+  [![YouTube Video thumbnail](https://img.youtube.com/vi/wVTp7mh9c1Q/hqdefault.jpg)](https://youtu.be/wVTp7mh9c1Q)
 - [rgl](https://github.com/ink0rr/rgl)
 
 ## Download
