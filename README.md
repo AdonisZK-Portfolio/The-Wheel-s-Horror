@@ -13,7 +13,7 @@ All current visual, audio, and icon assets are placeholder assets for prototype 
 
 ## Download
 
-Release package is not published yet. When a `.mcaddon` release is available:
+Download the latest `.mcaddon` from the [Releases page](https://github.com/AdonisZK-Portfolio/The-Wheel-s-Horror/releases/tag/v1.0.0).
 
 1. Open the latest release.
 2. Download `TheWheelsHorror-*.mcaddon` from Assets.
